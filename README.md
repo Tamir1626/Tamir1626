@@ -1,40 +1,28 @@
- 👋 Hi, I'm Tamir
+.Hi, I'm Tamir 👋
 
- 🎓 Computer Science & Engineering Student | 💻 Aspiring Software Engineer
+🎓 Computer Science Student
+💻 Interested in Software Development, Machine Learning & Data Analytics
 
-I'm a Computer Science & Engineering student currently building my foundations in
-**Java, Data Structures & Algorithms, and Software Development**.
+... About Me
 
-I use GitHub to document my learning journey, practice problem-solving, and build
-projects that help me turn concepts into practical skills.
+* 🔭 Currently working on academic and personal projects
+* 🌱 Learning Java, Python, Web Development and Machine Learning
+* 💡 Interested in building practical technology solutions
+* 📚 Improving my Data Structures & Algorithms skills
+* 🎯 Looking for internship and entry-level opportunities
 
----
+🛠️ Programming Skills
+* Java,Python,JavaScript,HTML,CSS,java Full Stack
 
-##  About Me
+&& Technologies
+* Git & GitHub,React,MySQL,Machine Learning,Data Analytics
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering
-- 💻 Currently learning **Java + Data Structures & Algorithms**
-- 🧠 Interested in **Problem Solving & Software Development**
-- 📚 Building strong programming fundamentals
-- 🔨 Working towards creating real-world projects
-- 🎯 Preparing for software engineering internships and placements
-- 🌱 Always learning something new
 
----
+## 📌 Featured Projects
 
-## 🛠️ Tech Stack
+* 🌱 **Krishi Mitra** – Smart irrigation and crop water management project
+* 🤖 **Machine Learning Project** – ML-based prediction/classification project
+* 🌐 **Web Development Project** – Java/Web-based application
 
-### Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
+## 🔗 Connect With Me
+* Email: Tamirkhan9798@gmail.com
